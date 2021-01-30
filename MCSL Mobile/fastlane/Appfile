@@ -1,5 +1,5 @@
 app_identifier("io.github.jerryj2003.MCSL-Mobile") # The bundle identifier of your app
-apple_id("jerryji2003@gmail.com") # Your Apple email address
+apple_id("public-apollonian@outlook.com") # Your Apple email address
 
 itc_team_id("119014141") # App Store Connect Team ID
 team_id("9LH3QR9J34") # Developer Portal Team ID
