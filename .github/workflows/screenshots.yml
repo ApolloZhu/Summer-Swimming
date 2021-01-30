@@ -2,7 +2,7 @@ name: Screenshot
 
 on:
   push:
-    branches: [ master ]
+    branches: [ main ]
 
 jobs:
   screenshot:
